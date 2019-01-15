@@ -19,7 +19,7 @@ Here are some learning projects on data visualization with Python.
   ```
   $ ./img_fetch.py https://www.ptt.cc/bbs/Beauty/M.1528087670.A.F1C.html
   ```
-* 完成[Numerical作業](https://github.com/aesophor/DataScience/blob/master/01-Numerical/River%20Pollution%20Data%20Visualization.ipynb)（臺灣河川污染分析、分析淡水河近年污染狀況變化）
-* [Pandas, Matplotlib 筆記](https://github.com/aesophor/DataScience/blob/master/01-Numerical/Note.ipynb)
+* 完成 [Numerical作業](https://github.com/aesophor/DataScience/blob/master/01-Numerical/River%20Pollution%20Data%20Visualization.ipynb)（臺灣河川污染分析、分析淡水河近年污染狀況變化）
+* 寫了 [Pandas, Matplotlib 筆記](https://github.com/aesophor/DataScience/blob/master/01-Numerical/Note.ipynb)
 
 ## Jan 16 (Wed)
