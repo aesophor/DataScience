@@ -15,7 +15,7 @@ Here are some learning projects on data visualization with Python.
 * 晚上趕 [OpenCV期末報告](https://drive.google.com/open?id=1BiIDQCSrFyuRWmcBFCNKFiMAMO0eh1yv) 沒有練習到@_@
 
 ## Jan 15 (Tue)
-* 寫了第一支 [影像爬蟲](https://github.com/NTU-CSX-DataScience/UTaipei/blob/master/04%20WebCrawlers/girl_fetch.py)
+* 寫了第一支 [影像爬蟲](https://github.com/aesophor/DataScience/blob/master/04%20WebCrawlers/girl_fetch.py)
   ```
   $ ./img_fetch.py https://www.ptt.cc/bbs/Beauty/M.1528087670.A.F1C.html
   ```
