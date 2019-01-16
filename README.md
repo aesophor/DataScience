@@ -11,9 +11,14 @@ Here are some learning projects on data visualization with Python.
 
 [A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
 
+## Catalogue
+[作業1 - 2017臺灣河川污染分析、淡水河2014-2017污染分析（根據RPI）](https://github.com/aesophor/DataScience/blob/master/01-Numerical/River%20Pollution%20Data%20Visualization.ipynb)
+[作業2 - 韓國瑜報導大不同（TVBS vs 三立）](https://github.com/aesophor/DataScience/blob/master/02-Political-News-Word-Cloud/Han%20Guo%20Yu.ipynb)
+作業3
+
 ## Timeline
 
-### Jan 14 (Mon)
+### Jan 14 (Mon) - 學LaTeX趕期末報告@_@
 * 晚上趕 [OpenCV期末報告](https://drive.google.com/open?id=1BiIDQCSrFyuRWmcBFCNKFiMAMO0eh1yv) 沒有練習到@_@
 
 ### Jan 15 (Tue) - 爬蟲入門、數值資料分析、Matplotlib繪圖
