@@ -17,7 +17,7 @@ Here are some learning projects on data visualization with Python.
 * 晚上趕 [OpenCV期末報告](https://drive.google.com/open?id=1BiIDQCSrFyuRWmcBFCNKFiMAMO0eh1yv) 沒有練習到@_@
 
 ### Jan 15 (Tue) - 爬蟲入門、數值資料分析、Matplotlib繪圖
-* 課前看爬蟲教學、寫了第一支 [影像爬蟲](https://github.com/aesophor/DataScience/blob/master/04%20WebCrawlers/img_fetch.py) (可以拿來爬ptt表特板...XD)
+* 課前看爬蟲教學、寫了第一支 [影像爬蟲](https://github.com/aesophor/DataScience/blob/master/04-Practices/web_scraper/img_fetch.py) (可以拿來爬ptt表特板...XD)
   ```
   $ ./img_fetch.py https://www.ptt.cc/bbs/Beauty/M.1528087670.A.F1C.html
   ```
