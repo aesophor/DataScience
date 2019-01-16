@@ -16,7 +16,7 @@ Here are some learning projects on data visualization with Python.
 ### Jan 14 (Mon)
 * 晚上趕 [OpenCV期末報告](https://drive.google.com/open?id=1BiIDQCSrFyuRWmcBFCNKFiMAMO0eh1yv) 沒有練習到@_@
 
-### Jan 15 (Tue)
+### Jan 15 (Tue) - 爬蟲入門、數值資料分析、Matplotlib繪圖
 * 課前看爬蟲教學、寫了第一支 [影像爬蟲](https://github.com/aesophor/DataScience/blob/master/04%20WebCrawlers/img_fetch.py) (可以拿來爬ptt表特板...XD)
   ```
   $ ./img_fetch.py https://www.ptt.cc/bbs/Beauty/M.1528087670.A.F1C.html
@@ -24,6 +24,6 @@ Here are some learning projects on data visualization with Python.
 * 課堂：[Numerical作業](https://github.com/aesophor/DataScience/blob/master/01-Numerical/River%20Pollution%20Data%20Visualization.ipynb)（臺灣河川污染分析、分析淡水河近年污染狀況變化）
 * 回家：看matplotlib教學、繼續寫課堂作業、寫 [Pandas, Matplotlib 筆記](https://github.com/aesophor/DataScience/blob/master/01-Numerical/Note.ipynb)
 
-## Jan 16 (Wed) - 文字雲
+## Jan 16 (Wed) - 文字雲、TF-IDF
 * 課堂：[JayChou 歌詞的常用字詞](https://github.com/aesophor/DataScience/blob/master/02-Textual/Jay%20Chou's%20Common%20Used%20Terms%20in%20His%20Lyrics.ipynb)
 * 回家：[韓國瑜相關報導(TVBS vs 三立)](https://github.com/aesophor/DataScience/blob/master/02-Political-News-Word-Cloud/Han Guo Yu.ipynb) 、搞懂+自己實作TF-IDF(log部分用numpy.log10(N / df))
