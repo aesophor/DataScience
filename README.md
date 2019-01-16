@@ -1,24 +1,14 @@
 # Data Visualization Projects
 Here are some learning projects on data visualization with Python.
 
-[01. Numerical](http://www.randalolson.com/2015/07/14/rethinking-the-population-pyramid/)
-
-[02. Textual](https://ntu-csx-datascience.github.io/UTaipei/02%20Textual/Apriori.html)
-
-[03. Interdisciplinary](https://ntu-csx-datascience.github.io/UTaipei/03%20Interdisciplinary/Notebook.slides.html)
-
-[Meta Kaggle: What happened to the team size?](https://www.kaggle.com/gpreda/meta-kaggle-what-happened-to-the-team-size)
-
-[A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
-
 ## Catalogue
-[作業1 - 2017臺灣河川污染分析、淡水河2014-2017污染分析（根據RPI）](https://github.com/aesophor/DataScience/blob/master/01-Numerical/River%20Pollution%20Data%20Visualization.ipynb)
+[作業1（Numerical） ： 2017臺灣河川污染分析、淡水河2014-2017污染分析（根據RPI）](https://github.com/aesophor/DataScience/blob/master/01-Numerical/River%20Pollution%20Data%20Visualization.ipynb)
 
-[作業2 - 韓國瑜報導大不同（TVBS vs 三立）](https://github.com/aesophor/DataScience/blob/master/02-Political-News-Word-Cloud/Han%20Guo%20Yu.ipynb)
+[作業2（Textual） - 韓國瑜報導大不同（TVBS vs 三立）](https://github.com/aesophor/DataScience/blob/master/02-Political-News-Word-Cloud/Han%20Guo%20Yu.ipynb)
 
 作業3
 
-## Timeline
+## Journal
 
 ### Jan 14 (Mon) - 學LaTeX趕期末報告@_@
 * 晚上趕 [OpenCV期末報告](https://drive.google.com/open?id=1BiIDQCSrFyuRWmcBFCNKFiMAMO0eh1yv) 沒有練習到@_@
@@ -34,3 +24,16 @@ Here are some learning projects on data visualization with Python.
 ## Jan 16 (Wed) - 文字雲、TF-IDF
 * 課堂：[JayChou 歌詞的常用字詞](https://github.com/aesophor/DataScience/blob/master/02-Textual/Jay%20Chou's%20Common%20Used%20Terms%20in%20His%20Lyrics.ipynb)
 * 回家：[韓國瑜相關報導 (TVBS vs 三立)](https://github.com/aesophor/DataScience/blob/master/02-Political-News-Word-Cloud/Han%20Guo%20Yu.ipynb) 、搞懂+自己實作TF-IDF(log部分用numpy.log10(N / df))
+
+
+## Resources
+
+[01. Numerical](http://www.randalolson.com/2015/07/14/rethinking-the-population-pyramid/)
+
+[02. Textual](https://ntu-csx-datascience.github.io/UTaipei/02%20Textual/Apriori.html)
+
+[03. Interdisciplinary](https://ntu-csx-datascience.github.io/UTaipei/03%20Interdisciplinary/Notebook.slides.html)
+
+[Meta Kaggle: What happened to the team size?](https://www.kaggle.com/gpreda/meta-kaggle-what-happened-to-the-team-size)
+
+[A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
