@@ -13,7 +13,9 @@ Here are some learning projects on data visualization with Python.
 
 ## Catalogue
 [作業1 - 2017臺灣河川污染分析、淡水河2014-2017污染分析（根據RPI）](https://github.com/aesophor/DataScience/blob/master/01-Numerical/River%20Pollution%20Data%20Visualization.ipynb)
+
 [作業2 - 韓國瑜報導大不同（TVBS vs 三立）](https://github.com/aesophor/DataScience/blob/master/02-Political-News-Word-Cloud/Han%20Guo%20Yu.ipynb)
+
 作業3
 
 ## Timeline
