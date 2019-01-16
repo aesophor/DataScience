@@ -26,4 +26,4 @@ Here are some learning projects on data visualization with Python.
 
 ## Jan 16 (Wed) - 文字雲、TF-IDF
 * 課堂：[JayChou 歌詞的常用字詞](https://github.com/aesophor/DataScience/blob/master/02-Textual/Jay%20Chou's%20Common%20Used%20Terms%20in%20His%20Lyrics.ipynb)
-* 回家：[韓國瑜相關報導(TVBS vs 三立)](https://github.com/aesophor/DataScience/blob/master/02-Political-News-Word-Cloud/Han Guo Yu.ipynb) 、搞懂+自己實作TF-IDF(log部分用numpy.log10(N / df))
+* 回家：[韓國瑜相關報導\(TVBS vs 三立\)](https://github.com/aesophor/DataScience/blob/master/02-Political-News-Word-Cloud/Han Guo Yu.ipynb) 、搞懂+自己實作TF-IDF(log部分用numpy.log10(N / df))
