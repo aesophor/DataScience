@@ -4060,3 +4060,124 @@ Fontconfig error: Cannot scan config file "infinality/conf.d"
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
 [Parent 14935, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
 [Parent 14935, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548014968048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AeLzPtouUNAJ"
+*** You are running in headless mode.
+1548014968297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548014968298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548014969132	Marionette	INFO	Listening on port 38337
+1548014969155	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548014970798	Marionette	INFO	Stopped listening on port 38337
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[Parent 15413, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 15413, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548015202566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UvL4qtdw9NUV"
+*** You are running in headless mode.
+1548015202817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548015202817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548015203611	Marionette	INFO	Listening on port 45789
+1548015203670	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548015252048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O9rtE895QSlT"
+*** You are running in headless mode.
+1548015252297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548015252297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548015253102	Marionette	INFO	Listening on port 43247
+1548015253152	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548028269574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CKoVNuEKbxlr"
+*** You are running in headless mode.
+1548028269832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548028269832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548028270625	Marionette	INFO	Listening on port 40889
+1548028270677	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548028274045	Marionette	INFO	Stopped listening on port 40889
+[Parent 17177, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 17177, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548028286847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oXT9S2zHbrh2"
+*** You are running in headless mode.
+1548028287095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548028287095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548028287923	Marionette	INFO	Listening on port 40883
+1548028287950	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548028289704	Marionette	INFO	Stopped listening on port 40883
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[Parent 17490, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 17490, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548028304661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P1sAH09LoaYR"
+*** You are running in headless mode.
+1548028304909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548028304909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548028305745	Marionette	INFO	Listening on port 42993
+1548028305771	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000020000 bytes requested
+1548029986098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8N20y8yEU8Cq"
+*** You are running in headless mode.
+1548029986479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548029986480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548029987588	Marionette	INFO	Listening on port 45391
+1548029987606	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548029988888	Marionette	INFO	Stopped listening on port 45391
+[Child 18548, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+[Parent 18350, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 18350, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548030045537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xlBoyXqH9Hgl"
+*** You are running in headless mode.
+1548030045792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548030045792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548030046610	Marionette	INFO	Listening on port 45833
+1548030046644	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot scan config file "infinality/conf.d"
+1548030052595	Marionette	INFO	Stopped listening on port 45833
+[Parent 18691, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 18691, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
