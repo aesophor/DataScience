@@ -3,6 +3,7 @@ Computer Science
 computer science
 scripting language
 work experience
+ui redesign
 hands-on experience
 relevant experience
 equivalent experience
