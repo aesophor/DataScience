@@ -41,42 +41,60 @@
 <img src="https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201606271147" width="75">
 
 **1. Apple 學歷要求**
+
 ![](https://i.imgur.com/GmP6apk.png)
 和 Google 不同的是：Apple 要求 BS(Bachelor of Science)，而 Google 僅要求大學畢業並未指定一定要理學士。
 
 **2. Apple 經驗要求**
+
 ![](https://i.imgur.com/kdT88rw.png)
 大多工作沒有指定需要幾年經驗。
 
 **3. Apple 需求最大的職缺**
+
 ![](https://i.imgur.com/Lxdg3Xs.png)
 仍然以 Software Engineer 爲主。
 
 **4. Apple 最值得學的 Programming Languages / Frameworks / Skills**
+
 ![](https://i.imgur.com/KduIGGj.png)
 ![](https://i.imgur.com/cOIzOxP.png)
-caption
+三大基本要求還是 Java, Python, C++。而在這裏可見 Apple 偏好懂 Swift 語言的軟體工程師。
 
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/900px-Facebook_logo_%28square%29.png" width="75">
 
 **1. 學歷要求**
+
 ![](https://i.imgur.com/8GV5jal.png)
-caption
+許多職缺並沒有列出學歷要求，Preferred Qualifications 學歷要求分布相當平均。
 
 **2. 經驗要求**
+
 ![](https://i.imgur.com/Rk1WdtJ.png)
-caption
+一樣不要求經驗。
 
 **3. 需求最大的職缺**
+
 ![](https://i.imgur.com/KkYZyuL.png)
-caption
+還是 Software Engineer 爲主。
 
 **4. 最值得學的 Programming Languages / Frameworks / Skills**
+
 ![](https://i.imgur.com/ardaIBC.png)
 ![](https://i.imgur.com/xps6Giz.png)
-caption
+三大基本要求還是 Java, Python, C++。除此之外 Facebook 也特別傾向 Php, SQL 技術。    
+從文字雲中可看見 low-level 一詞，到 github.com/facebook 可看見許多底層的程式專案，如：folly, watchman, redex, ...etc. 
+
+---
+
+## 小結
+縱觀上述資料的分析結果，若想到 Google, Apple, Facebook 等大公司工作，建議具備一下能力：
+* Programming Languages: `C++/Java/Python` （擇一精通） + Go (Google), Swift (Apple), Php+SQL (Facebook)
+* Frameworks: Jakarta (former JavaEE) + JSP + GWT, XUL, XAML, flex
+* Tools: Git
+* Objective: 能融入團隊，參與stable, large-scale, next-gen 專案的開發，並具備良好的書寫與口頭溝通能力。
 
 ---
 
