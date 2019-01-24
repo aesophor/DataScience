@@ -2,16 +2,23 @@
 ---
 分析情境：在大學四年的訓練中，我們學了很多 Computer Science 的課程，也接受了許多程式訓練。但業界需求和學校所學可能有極大落差，因此我們決定用 Web Scraper 爬出 Google, Apple, Facebook 等公司的 Job Descriptions 並進行統計與分析。
 
-* 進 Google 一定要高學歷？
+* 進 Google, Apple, Facebook 一定要高學歷？
 * 一定要有5年以上豐富經驗？
 * 軟體工程師是最夯職缺？
 * 如果只是想進大公司，應該學什麼程式語言、Framework，CP值最高？
-* 當前臺灣吵得沸沸揚揚的22K低薪，到國外真的賺比臺灣多？
+* 畢業後究竟該留在國內，還是到國外賺得比臺灣多？
 
-讓我們直接從資料破除上述迷思！！
+讓我們實際地分析資料破除上述迷思！！
+
+![](https://i.imgur.com/KNFJ3Tg.png)
 
 ---
+以下分析資料來源：各公司網站公開的Job Descriptions. Google（1710筆）, Apple（2148筆）, Facebook（1067筆）。    
+搜集時間：2019/01/22    
+**分析結果僅供參考。**
 
+---
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png" width="150">
 
 1. 學歷要求
 ![](https://i.imgur.com/ART3gsj.png) 
@@ -27,9 +34,51 @@
 
 4. 最值得學的 Programming Languages / Frameworks / Skills
 ![](https://i.imgur.com/yM2DAaD.png)
-![](https://i.imgur.com/CKYgjYP.png)
-
+![](https://i.imgur.com/B4Ut9di.png)
 > 資料顯示，目前大公司需求以懂 Java, Python, C++, Go 等語言的人才爲主。在 minimum/preferred qualifications 與 responsibilities 敘述所產生的文字雲中，物件導向、JSP、ASP、XAML、XUL、GWT、Flex ...等，可能爲 Google 工作可能會用到的技術/框架。
 
-5. 後續將持續分析 Apple 與 Facebook，並整合三家公司的 Job Description 資料進行分析，即可了解當前業界最普遍、常見的資訊人才需求。最後根據可支配收入分析「出國找工作」真的賺比較多？還是待在國內其實比較好?
+---
 
+<img src="https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201606271147" width="75">
+
+1. 學歷要求
+![](https://i.imgur.com/GmP6apk.png)
+> caption
+
+2. 經驗要求
+![](https://i.imgur.com/kdT88rw.png)
+> caption
+
+3. 需求最大的職缺
+![](https://i.imgur.com/Lxdg3Xs.png)
+> caption
+
+4. 最值得學的 Programming Languages / Frameworks / Skills
+![](https://i.imgur.com/KduIGGj.png)
+![](https://i.imgur.com/cOIzOxP.png)
+> caption
+
+---
+
+<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjH6f3jsoXgAhWHfd4KHSWNBFgQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AFacebook_logo_(square).png&psig=AOvVaw3Tbw1jKu9qW1f9x8LsVkNA&ust=1548384186078807" width="75">
+
+1. 學歷要求
+![](https://i.imgur.com/8GV5jal.png)
+> caption
+
+2. 經驗要求
+![](https://i.imgur.com/Rk1WdtJ.png)
+> caption
+
+3. 需求最大的職缺
+![](https://i.imgur.com/KkYZyuL.png)
+> caption
+
+4. 最值得學的 Programming Languages / Frameworks / Skills
+![](https://i.imgur.com/ardaIBC.png)
+![](https://i.imgur.com/xps6Giz.png)
+> caption
+
+---
+
+後續將整合三家公司的 Job Description 資料進行分析，即可了解當前業界最普遍、常見的資訊人才需求。最後根據可支配收入分析「出國找工作」真的賺比較多？還是待在國內其實比較好?
