@@ -60,7 +60,7 @@
 
 ---
 
-<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjH6f3jsoXgAhWHfd4KHSWNBFgQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AFacebook_logo_(square).png&psig=AOvVaw3Tbw1jKu9qW1f9x8LsVkNA&ust=1548384186078807" width="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/900px-Facebook_logo_%28square%29.png" width="75">
 
 1. 學歷要求
 ![](https://i.imgur.com/8GV5jal.png)
