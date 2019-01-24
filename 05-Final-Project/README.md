@@ -91,9 +91,9 @@
 
 ## 小結
 縱觀上述資料的分析結果，若想到 Google, Apple, Facebook 等大公司工作，建議具備一下能力：
-* Programming Languages: `C++/Java/Python` （擇一精通） + Go (Google), Swift (Apple), Php+SQL (Facebook)
-* Frameworks: Jakarta (former JavaEE) + JSP + GWT, XUL, XAML, flex
-* Tools: Git
+* Programming Languages: `C++/Java/Python` （擇一精通） + `Go` (Google), `Swift` (Apple), `Php+SQL` (Facebook)
+* Frameworks: `Jakarta EE` + `JSP` + `GWT`, `XUL`, `XAML`, `flex`, `boost`(C++)
+* Tools: Git, 熟悉 Unix/Linux
 * Objective: 能融入團隊，參與stable, large-scale, next-gen 專案的開發，並具備良好的書寫與口頭溝通能力。
 
 ---
