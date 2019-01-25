@@ -49,7 +49,7 @@
 **2. Apple 經驗要求**
 
 ![](https://i.imgur.com/OBcLdTs.png)
-大多工作沒有指定需要幾年經驗。
+大多職缺沒有指定需要幾年經驗。
 
 **3. Apple 需求最大的職缺**
 
@@ -75,7 +75,7 @@
 **2. 經驗要求**
 
 ![](https://i.imgur.com/l3vprsr.png)
-一樣不要求經驗。
+許多職缺不要求經驗。
 
 **3. 需求最大的職缺**
 
@@ -95,7 +95,7 @@
 ## 小結
 縱觀上述資料的分析結果，若想到 Google, Apple, Facebook 等大公司工作，建議具備一下能力：
 * Programming Languages: `C++/Java/Python` （擇一精通） + `Go` (Google), `Swift` (Apple), `Php+SQL` (Facebook)
-* Frameworks: `Jakarta EE` + `JSP` + `GWT`, `XUL`, `XAML`, `flex`, `boost`(C++)
+* Frameworks: `JSP` + `GWT`, `XUL`, `XAML`, `flex`, `boost`(C++)
 * Tools: Git, 熟悉 Unix/Linux
 * Objective: 能融入團隊，參與stable, large-scale, next-gen 專案的開發，並具備良好的書寫與口頭溝通能力。
 
@@ -104,3 +104,4 @@
 ## 後續工作
 * 整合三家公司的 Job Description 資料進行分析，即可了解當前業界最普遍、常見的資訊人才需求。
 * 最後根據可支配收入分析「出國找工作」真的賺比較多？還是待在國內其實比較好?
+* 現實中，要進大公司非常困難，而不是像資料顯示的那麼簡單。想辦法解釋資料與現實的差距？
