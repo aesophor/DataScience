@@ -1,5 +1,7 @@
 從 Data Science 看 Google, Apple, Facebook 對軟體工程師的需求
 ---
+Authors: 資科二[張育甄](https://github.com/a19990506)、資科二[許宸禎](https://github.com/aarriiel)、資科三[王冠中](https://github.com/aesophor)
+
 > 在大學四年的訓練中，我們學了很多 Computer Science 的課程，也接受了許多程式訓練。但業界需求和學校所學可能有極大落差，因此我們決定用 Web Scraper 爬出 Google, Apple, Facebook 等公司的 Job Descriptions 並進行統計分析。
 
 * 進 Google, Apple, Facebook 一定要高學歷？
