@@ -74,15 +74,13 @@ We will analyze the jobs at Google, Facebook and Apple one by one regarding the 
   ![](https://raw.githubusercontent.com/aesophor/NTU-CSX-DataScience2019/master/hw4-final-project/out_graphs/apple_keyword_relations.png)
 
 
-## 小結
-縱觀上述資料的分析結果，若想到 Google, Apple, Facebook 等大公司工作，建議具備一下能力：
-* Programming Languages: `C++/Java/Python` （擇一精通） + `Go` (Google), `Swift` (Apple), `Php+SQL` (Facebook)
-* Frameworks: `JSP` + `GWT`, `XUL`, `XAML`, `flex`, `boost`(C++)
-* Tools: Git, 熟悉 Unix/Linux
-* Objective: 能融入團隊，參與stable, large-scale, next-gen 專案的開發，並具備良好的書寫與口頭溝通能力。
+## Conclusion
+* Some jobs at these big tech companies does not require very high-level degree, but having one can give you
+advantage over other candidates (since there will be a lot of job applicants!)
+* Some jobs doesn't ask you to have work experience, but they ask you to have practical experience!
 
 
-## 後續工作
+## Todo
 * 整合三家公司的 Job Description 資料進行分析，即可了解當前業界最普遍、常見的資訊人才需求。
 * 最後根據可支配收入分析「出國找工作」真的賺比較多？還是待在國內其實比較好?
 * 現實中，要進大公司非常困難，而不是像資料顯示的那麼簡單。想辦法解釋資料與現實的差距？
